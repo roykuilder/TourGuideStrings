@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">Tour Guide Groningen</string>
+
+    <!--Resources for the Hotel cards -->
+    <string name="hotel_nh_title">Hotel NH</string>
+    <string name="hotel_nh_main_text">The NH Groningen hotel gets full marks for location. Leisure
+        travelers love that it’s an easy walk into the center,
+        where must-see sights include the Martinitower,
+        Cartoon Museum and the Groninger Museum of Art.</string>
+    <string name="hotel_nh_phone_number">020 70 18 042</string>
+    <string name="hotel_nh_adress">Hanzeplein, 132 9713GW Groningen - Nederland</string>
+    <string name="hotel_nh_site">https://www.nh-hotels.nl/hotel/nh-groningen</string>
+
+    <string name="hotel_hampshire_title">Hampshire Hotel</string>
+    <string name="hotel_hampshire_main_text">In the heart of the city of Groningen, the Hampshire
+        Hotel – Groningen Centre has an extremely favourable location. The hotel has 77
+        comfortable hotel rooms and four fully furnished apartments.
+        All rooms have a spacious bathroom with shower and toilet,
+        a desk, LCD TV, telephone and free Wi-Fi.</string>
+    <string name="hotel_hampshire_phone_number">050 316 2955</string>
+    <string name="hotel_hampshire_adress">Radesingel 50, 9711 EK Groningen</string>
+    <string name="hotel_hampshire_site">https://hampshire-groningen.nl/en/</string>
+
+    <string name="hotel_prinsenhof_title">Prinsenhof Groningen</string>
+    <string name="hotel_prinsenhof_main_text">City, silence and comfort
+        Prinsenhof Groningen is located right in the middle of Groningen city center, only meters from
+        the Martini Tower. As soon as the monumental gate is passed, the city’s bustle is
+        left behind. Offering a grand café, a hotel and an à-la-carte restaurant, Prinsenhof is a
+        place where everybody is made to feel at home</string>
+    <string name="hotel_prinsenhof_phone_number">050 - 317 6550</string>
+    <string name="hotel_prinsenhof_adress">Martinikerkhof 23, 9712 JH Groningen</string>
+    <string name="hotel_prinsenhof_site">http://www.prinsenhof-groningen.nl/en/</string>
+
+    <string name="hotel_corps_de_garde_title">Corps de Garde</string>
+    <string name="hotel_corps_de_garde_main_text">Hotel Corps de Garde is a typical small hotel run
+        by an enthusiastic team and their two owners. Creative and a little cocky, personal and
+        enthusiastic. It makes Hotel Corps de Garde an experience on its own, a place where you just
+        feel good!</string>
+    <string name="hotel_corps_de_garde_phone_number">050 314 5437</string>
+    <string name="hotel_corps_de_garde_adress">Oude Boteringestraat 74, 9712 GN Groningen</string>
+    <string name="hotel_corps_de_garde_site">http://www.corpsdegarde.nl/</string>
+
+    <!--Resources for the Theatre cards-->
+    <string name="theatre_stadsschouwburg_title">Stadsschouwburg</string>
+    <string name="theatre_stadsschouwburg_main_text">The number one location for classic theatre
+        in Groningen. It has been the main theatre in Groningen since 1883</string>
+    <string name="theatre_stadsschouwburg_phone_number">050 368 0111</string>
+    <string name="theatre_stadsschouwburg_adress">Turfsingel 86, 9711 VX Groningen</string>
+    <string name="theatre_stadsschouwburg_site">
+        http://www.de-oosterpoort.nl/programma/verzameling/english/</string>
+
+    <string name="theatre_de_oosterpoort_title">De Oosterpoort</string>
+    <string name="theatre_de_oosterpoort_main_text">With two stages this is the place for
+        classical and modern music.</string>
+    <string name="theatre_de_oosterpoort_phone_number"> 050 368 0368</string>
+    <string name="theatre_de_oosterpoort_adress">Trompsingel 27, 9724 DA Groningen</string>
+    <string name="theatre_de_oosterpoort_site">http://www.de-oosterpoort.nl/</string>
+
+    <string name="theatre_grand_theatre_title">Grand Theatre</string>
+    <string name="theatre_grand_theatre_main_text">The Grand Theatre is a culture building on the
+        Grote Markt. It used to be cinema but now hold a wide variaty of acts and theatre styles</string>
+    <string name="theatre_grand_theatre_phone_number">06 43600093</string>
+    <string name="theatre_grand_theatre_adress">Grote Markt 35, 9711 LV Groningen</string>
+    <string name="theatre_grand_theatre_site">https://www.grandtheatregroningen.nl/</string>
+
+    <string name="theatre_martiniplaza_title">MartiniPlaza</string>
+    <string name="theatre_martiniplaza_main_text">The home stadium for the basketball team Donar.
+        It holds the biggest events in Groningen.</string>
+    <string name="theatre_martiniplaza_phone_number">050 522 2777</string>
+    <string name="theatre_martiniplaza_adress">Leonard Springerlaan 2, 9727 KB Groningen</string>
+    <string name="theatre_martiniplaza_site">https://www.martiniplaza.nl/</string>
+
+    <!-- Resources for the Restaurant cards-->
+    <string name="restaurant_prinsenhof_title">Prinsenhof</string>
+    <string name="restaurant_prinsenhof_main_text">We offer a quick lunch and a well prepared
+        espresso. You can enjoy an elaborate dinner, either for two or in a large party.
+        However your visit is short or long, you will notice immediately how different Prinsenhof
+        Groningen is. A unique location, a beautiful building, loads of comfort.</string>
+    <string name="restaurant_prinsenhof_phone_number">050 317 6550</string>
+    <string name="restaurant_prinsenhof_adress">Martinikerkhof 23, 9712 JH Groningen</string>
+    <string name="restaurant_prinsenhof_site">http://www.prinsenhof-groningen.nl/nl/restaurant-alacarte</string>
+
+    <string name="restaurant_feithuis_title">\'t Feithuis</string>
+    <string name="restaurant_feithuis_main_text">Welcome to \'t Feithuis, restaurant in the centre
+        of Groningen. Right next to the Martinikerk. We are the meeting place for the people of
+        Groningen.</string>
+    <string name="restaurant_feithuis_phone_number">Telefoon: 050 313 5335</string>
+    <string name="restaurant_feithuis_adress">Martinikerkhof 10, 9712 JG Groningen</string>
+    <string name="restaurant_feithuis_site">https://www.restaurant-feithhuis.nl/</string>
+
+    <string name="restaurant_humphreys_title">Humphrey\'s</string>
+    <string name="restaurant_humphreys_main_text">With it\'s red furniture, golden chandeliers,
+        lush use of fabrics and art nouveau chairs this restaurante breathes a \'Moulin Rouge\'
+        ambiance.</string>
+    <string name="restaurant_humphreys_phone_number">050 313 1981</string>
+    <string name="restaurant_humphreys_adress">Vismarkt 42, 9711 KV Groningen</string>
+    <string name="restaurant_humphreys_site">https://humphreys.nl/onze-restaurants/humphreys-groningen/</string>
+
+    <string name="restaurant_voila_title">Voila</string>
+    <string name="restaurant_voila_main_text">At Voila you are invited to enjoy your meal in the
+        french table d\'Hotel style. We serve a dayly 5-cource menu with fresh products.</string>
+    <string name="restaurant_voila_phone_number">050 280 1108</string>
+    <string name="restaurant_voila_adress">W.A. Scholtenstraat 39, 9711XB Groningen</string>
+    <string name="restaurant_voila_site">http://www.restaurantvoila.nl/</string>
+
+    <!-- Resources for the Leisure cards-->
+    <string name="leisure_boertange_title">Vesting Boertange</string>
+    <string name="leisure_boertange_main_text">Near the German border in the beautiful surroundings
+        of Westerwolde (Southeast Groningen), you will find the fortress of Bourtange. A unique
+        historical defences which is  without comparison. In this small, cosy fortress town, the
+        present day and past centuries go together perfectly</string>
+    <string name="leisure_boertange_phone_number">0031 599 35 46 00</string>
+    <string name="leisure_boertange_adress">W. Lodewijkstraat 33, 9545 PA Bourtange</string>
+    <string name="leisure_boertange_site">https://www.bourtange.nl/</string>
+
+    <string name="leisure_martini_toren_title">Martini Toren</string>
+    <string name="leisure_martini_toren_main_text">Visitors are able to climb the 311 steps of the
+        tower. This gives the best view of Groningen and is surroundings.</string>
+    <string name="leisure_martini_toren_phone_number">0900 20 230 50</string>
+    <string name="leisure_martini_toren_adress">Grote Markt 29, 9712HS Groningen</string>
+    <string name="leisure_martini_toren_site">https://toerisme.groningen.nl/over-groningen/stad-groningen/martinitoren/beklimming-van-de-martinitoren</string>
+
+    <string name="leisure_groninger_museum_title">Groninger Museum</string>
+    <string name="leisure_groninger_museum_main_text">This Museum is art itself. This beautiful
+        building is the first thing you see when arriving by train in Groningen. It holds a
+        variaty of modern and classic art.</string>
+    <string name="leisure_groninger_museum_phone_number">050 3666 555</string>
+    <string name="leisure_groninger_museum_adress">Museumeiland 1, 9711 ME Groningen</string>
+    <string name="leisure_groninger_museum_site">http://www.groningermuseum.nl/en</string>
+
+    <string name="leisure_scheepvaartmuseum_title">Noordelijk Scheepvaartmuseum</string>
+    <string name="leisure_scheepvaartmuseum_main_text">The Northern Maritime Museum (Noordelijk Scheepvaartmuseum)
+        tells the  history of the northern Dutch shipping and shipbuilding from the Middle Ages
+        until today. The museum is housed in two medieval buildings.</string>
+    <string name="leisure_scheepvaartmuseum_phone_number">050 312 22 02</string>
+    <string name="leisure_scheepvaartmuseum_adress">Brugstraat 24, 9711 HZ Groningen</string>
+    <string name="leisure_scheepvaartmuseum_site">https://www.noordelijkscheepvaartmuseum.nl/en/</string>
+
+</resources>

@@ -15,7 +15,6 @@ public class DinnerFragment extends Fragment {
         // Required empty public constructor
     }
 
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
@@ -33,13 +32,14 @@ public class DinnerFragment extends Fragment {
                 R.string.restaurant_humphreys_phone_number, R.string.restaurant_humphreys_adress,
                 R.string.restaurant_humphreys_site, R.drawable.restaurant_humphreys));
         cards.add(new Card(R.string.restaurant_feithuis_title, R.string.restaurant_feithuis_main_text,
-                R.string.restaurant_feithuis_phone_number, R.string.restaurant_feithuis_adress, R.string.restaurant_feithuis_site,
-                R.drawable.restaurant_feithuis));
+                R.string.restaurant_feithuis_phone_number, R.string.restaurant_feithuis_adress,
+                R.string.restaurant_feithuis_site, R.drawable.restaurant_feithuis));
         cards.add(new Card(R.string.restaurant_voila_title, R.string.restaurant_voila_main_text,
                 R.string.restaurant_voila_phone_number, R.string.restaurant_voila_adress,
                 R.string.restaurant_voila_site, R.drawable.restaurant_voila));
-        cards.add(new Card(R.string.restaurant_prinsenhof_title, R.string.restaurant_prinsenhof_main_text, R.string.restaurant_prinsenhof_phone_number,
-                R.string.restaurant_prinsenhof_adress, R.string.restaurant_prinsenhof_site, R.drawable.restaurant_prinsenhof));
+        cards.add(new Card(R.string.restaurant_prinsenhof_title, R.string.restaurant_prinsenhof_main_text,
+                R.string.restaurant_prinsenhof_phone_number, R.string.restaurant_prinsenhof_adress,
+                R.string.restaurant_prinsenhof_site, R.drawable.restaurant_prinsenhof));
 
         // A custom Arraydapter is created/
         CardAdapter adapter = new CardAdapter(getActivity(), cards);
@@ -50,5 +50,4 @@ public class DinnerFragment extends Fragment {
         //Return the created View tot the ViewPager/
         return rootView;
     }
-
 }

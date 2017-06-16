@@ -1,5 +1,6 @@
 package com.example.android.tourguidestrings;
 
+import android.content.Context;
 import android.os.Bundle;
 import android.support.design.widget.TabLayout;
 import android.support.v4.view.ViewPager;
@@ -12,6 +13,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        // The context is set here so it can be passed to MyFragmentPagerAdapter.
+        Context context = getApplicationContext();
+
         // Set the content of the activity to use the activity_main.xml layout file
         setContentView(R.layout.activity_main);
 
@@ -19,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         ViewPager viewPager = (ViewPager) findViewById(R.id.viewPager);
 
         // Create a custom adapter to fill the ViewPager
-        MyFragmentPagerAdapter adapter = new MyFragmentPagerAdapter(getSupportFragmentManager());
+        MyFragmentPagerAdapter adapter = new MyFragmentPagerAdapter(getSupportFragmentManager(), context);
 
         // Set the adapter on the ViewPager
         viewPager.setAdapter(adapter);

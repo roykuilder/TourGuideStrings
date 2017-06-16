@@ -1,6 +1,12 @@
 <resources>
     <string name="app_name">Tour Guide Groningen</string>
 
+    <!-- Titles for the TabView -->
+    <string name="title_hotel">Hotel</string>
+    <string name="title_dinner">Dinner</string>
+    <string name="title_theatre">Theatre</string>
+    <string name="title_leisure">Leisure</string>
+
     <!--Resources for the Hotel cards -->
     <string name="hotel_nh_title">Hotel NH</string>
     <string name="hotel_nh_main_text">The NH Groningen hotel gets full marks for location. Leisure
